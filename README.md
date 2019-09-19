@@ -1,10 +1,11 @@
 # app_help_desk
-Projeto PHP
-Projeto feito no final do modulo de php, sem banco de dados, apenas para botar em pratica os codigos de php
+Projeto PHP 
 
-Site com login, onde é possivel abrir chamados e consultar chamados
+Projeto feito no final do modulo de php, sem banco de dados, apenas para botar em pratica os códigos de php
 
-Login é validado com usuarios e senhas estaticos no proprio codigo
+Site com login, onde é possível abrir chamados e consultar chamados
 
-Usuario Admin pode consultar todos os chamados, usuario padrão consulta apenas os proprios chamados
+Login é validado com usuários e senhas estáticos no próprio código
+
+Usuário Admin pode consultar todos os chamados, usuário padrão consulta apenas os próprios chamados
 
